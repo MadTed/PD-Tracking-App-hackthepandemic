@@ -1,0 +1,53 @@
+Description of the PD-Tracking-App-hackthepandemic
+==================================================
+
+1) What characteristics the app should have
+===========================================
+
+  a) OpenSource development
+     With OpenSource anyone can have a look on the programming code, to insure
+     i) the app is only doing what it is intended
+     ii) developing, testing and bugfixing could be done faster
+     iii) no additional not needed data for the main functionality is collected
+     iiii) functionality and collecting data is transparent for everyone
+  
+  b) Data is collected anonymously
+     No personal data is stored about the person who is using the app.
+     There is no need for. 
+     For example, Bluetooth-MAC-Adresses should be encrypted with a one-way-cryptographic function,
+     so it isn't possible to recover the origin one.
+     For telling people that they have met a covid-19-patient, there is no need for knowing the person in real life.
+  
+  c) Using Bluetooth for tracking
+     With Bluetooth we can simple detect other devices nearby. 
+     The range of Bluetooth is limited and any smartphone has it.
+     So we do not track people, just their devices. In fact, nowadays with smartphones that seems to be similiar, but is not.
+  
+  d) Data is only stored non-centralized
+     No extra data storage is needed, so no one could claim it. 
+     i) The tracking data is stored on the single device of the user
+     ii) The tracking data is stored in a blockchain. So everyone can have it, analyze it and do whatever they want.
+  
+  e) Positive Tests of diseases like corona-19, flu, ebola and so on could be processed anonymously,
+     also the information if you had contact with such a person.
+     
+  f) The collection of data concerning positive disease-tests has to be safe.
+     This seems the most challenging act. Only if you have trustworthy data about this the whole thing makes sense.
+  
+2) Basic thoughts about the app
+===============================
+
+  a) The app should be free with no charge
+  b) using it should be on a voluntary basis
+  c) no additional data should be collected
+  
+  Many people would use it, I guess, if the above is followed.
+
+===
+
+to be continued.
+
+MadTed
+mad666ted@gmail.com
+
+    
