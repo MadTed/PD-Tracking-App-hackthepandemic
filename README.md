@@ -9,7 +9,7 @@ So I start to develop an app for tracking the spread of diseases in general, sta
 The main characteristics of the app are:
 
 1) OpenSource developement
-2) transparent and fully anonymous way to collect and process data. No personal data is used.
+2) transparent and fully anonymous way to collect and process data. No personal data is used. No movement profile is created.
 3) storing the data decentralized in a blockchain
 4) only verified health status is used, provided by your local health service
 
