@@ -1,8 +1,12 @@
-Description of the PD-Tracking-App-hackthepandemic
-==================================================
+Description of the PD-(Pandemic Disease-)Tracking-App-hackthepandemic
+=====================================================================
 
 1) What characteristics the app should have
 ===========================================
+
+The app is intended to track any disease in a transparent and anonymous way.
+For the first step it would be suggested to start with covid-19. 
+Other diseases like flu, ebola, tuberculosis, malaria and so on could be added easily.
 
   a) OpenSource development
      With OpenSource anyone can have a look on the programming code, to insure
@@ -34,6 +38,9 @@ Description of the PD-Tracking-App-hackthepandemic
   f) The collection of data concerning positive disease-tests has to be safe.
      This seems the most challenging act. Only if you have trustworthy data about this the whole thing makes sense.
   
+  g) The collection of data concerning already recovered positive disease-tests has to be safe.
+     This seems the most challenging act. Only if you have trustworthy data about this the whole thing makes sense.
+  
 2) Basic thoughts about the app
 ===============================
 
@@ -42,6 +49,24 @@ Description of the PD-Tracking-App-hackthepandemic
   c) no additional data should be collected
   
   Many people would use it, I guess, if the above is followed.
+
+3) Requirements of the app
+==========================
+
+The app should be available for (in order of importance)
+  a) Android
+  b) iOS
+  c) Linux
+  d) Win10
+  e) MacOs
+
+It should also be work with older OS versions (lets say 5 years old) and Bluetooth 2.1 + EDR and later versions.
+
+4) Gathering of global data from WHO, Johns Hopkins University and RKI Robert Koch Institue and displaying them
+===============================================================================================================
+
+There a some realy nice OpenSource-Projects here on GitHub concerning to get and display the actual data of the spreading of corona-19 worldwide.
+Perhaps it is possible to use these apps as a basis for developing this app. Unfortunately, many apps are called "Trackers", but they do not track, just display.
 
 ===
 
